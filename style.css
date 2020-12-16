@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap');
+
+.ml16 {
+    color: dodgerblue;
+    padding: 40px 0;
+    font-weight: 1000;
+    font-size: 5em;
+    text-transform: uppercase;
+    letter-spacing: 0.5em;
+    overflow: hidden;
+    text-transform: uppercase;
+  }
+  
+  .ml16 .letter {
+    display: inline-block;
+    line-height: 1em;
+  }
+
+  body {
+    font-family: 'Nunito', sans-serif;
+    text-align: center;
+    background-color: black;
+    color: white;
+    text-transform: uppercase;
+    font-weight: lighter;
+  }
